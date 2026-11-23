@@ -1,4 +1,4 @@
-# Marc Thomas, PhD
+# Dr. Marc THOMAS
 
 **Sales Engineer / Field Application Engineer (EMEA)** · DevSecOps · Software Supply Chain Security · Applied & Agentic AI
 
