@@ -6,7 +6,7 @@ I sit between the engineering team and the buyer. I design proofs of concept, ru
 
 I'm not a full-time software developer or an ML engineer. I'm the person who builds the demo, wires the pipeline, reads the scan report with the customer and defends the architecture in the room.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc%20Thomas%2C%20PhD-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-thomas-phd-4087b6187)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dr.%20Marc%20THOMAS-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-thomas-phd-4087b6187/)
 ![Location](https://img.shields.io/badge/Based%20in-Paris%20region%2C%20France-1F3A5F)
 ![Languages](https://img.shields.io/badge/FR%20%C2%B7%20SR%20%C2%B7%20EN%20%C2%B7%20DE%20(basic)-2A9D8F)
 
