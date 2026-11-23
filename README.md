@@ -28,7 +28,7 @@ I'm not a full-time software developer or an ML engineer. I'm the person who bui
 |---|---|
 | **DevSecOps & AppSec** | Shift-left security, SAST and runtime analysis in CI, secrets and dependency risk, software supply chain, SBOMs, secure boot and secure update chains, zero-trust manufacturing |
 | **Regulation & compliance** | EU CRA, ETSI EN 303 645, UK PSTI, functional safety (ISO 26262, IEC 61508): what they require from a build pipeline, not just a policy document |
-| **CI/CD & platforms** | GitHub Actions, GitLab CI, Jenkins, Docker, runner strategies, licensing for ephemeral build agents |
+| **CI/CD & platforms** | GitHub Actions, GitLab CI, Docker, runner strategies, licensing for ephemeral build agents |
 | **Applied & agentic AI** | Layered multi-agent design, human-in-the-loop, governance and audit trails, RAG / GraphRAG, MCP connectors to enterprise systems, local open-weight inference (Ollama) |
 | **Process orchestration** | BPMN-modeled workflows, where agents fit inside an orchestrated process, and why deterministic orchestration around non-deterministic AI matters |
 
